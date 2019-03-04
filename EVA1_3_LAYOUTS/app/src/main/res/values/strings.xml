@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EVA1_3_LAYOUTS</string>
+    <string name="txtVw1">Nombre</string>
+    <string name="txtVw2">Apellido</string>
+    <string name="txtVw3">Edad</string>
+    <string name="nombre">Introduce tu nombre</string>
+    <string name="apellido">Introduce tu apellido</string>
+    <string name="edad">Introduce tu edad</string>
+    <string name="mas">Masculino</string>
+    <string name="fem">Femenino</string>
+    <string name="otros">Otros</string>
+</resources>
